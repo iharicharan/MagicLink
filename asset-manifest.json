@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MagicLink/static/css/main.4897d5f1.chunk.css",
+    "main.js": "/MagicLink/static/js/main.a4df8c79.chunk.js",
+    "main.js.map": "/MagicLink/static/js/main.a4df8c79.chunk.js.map",
+    "runtime-main.js": "/MagicLink/static/js/runtime-main.7a123b25.js",
+    "runtime-main.js.map": "/MagicLink/static/js/runtime-main.7a123b25.js.map",
+    "static/js/2.94eb7497.chunk.js": "/MagicLink/static/js/2.94eb7497.chunk.js",
+    "static/js/2.94eb7497.chunk.js.map": "/MagicLink/static/js/2.94eb7497.chunk.js.map",
+    "index.html": "/MagicLink/index.html",
+    "precache-manifest.92a1cdf57028c343d996b1be3013d720.js": "/MagicLink/precache-manifest.92a1cdf57028c343d996b1be3013d720.js",
+    "service-worker.js": "/MagicLink/service-worker.js",
+    "static/css/main.4897d5f1.chunk.css.map": "/MagicLink/static/css/main.4897d5f1.chunk.css.map",
+    "static/js/2.94eb7497.chunk.js.LICENSE.txt": "/MagicLink/static/js/2.94eb7497.chunk.js.LICENSE.txt",
+    "static/media/demo.mp3": "/MagicLink/static/media/demo.c41d7f30.mp3",
+    "static/media/App.css": "/MagicLink/static/media/ram.216bcf59.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a123b25.js",
+    "static/js/2.94eb7497.chunk.js",
+    "static/css/main.4897d5f1.chunk.css",
+    "static/js/main.a4df8c79.chunk.js"
+  ]
+}
