@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+.App{
+ width:1000px;
+    height:auto;
+    margin-right: 300px;
+    position:absolute;
+}
+.Full-box{
+    background: url('videos/ram.gif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:96%;
+    margin-left: 30px;
+    height: 93vh;
+  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#time{
+   font-size: 20px;
+    color:yellow;
+   -webkit-text-stroke: 0.5px black;
+    
+}
+.twitter-icon{
+    background-color: rgb(0, 102, 255);
+    color:white;
+    text-decoration: none;
+    border:4px;
+    padding: 2px 3px;
+    font-size: 13px;
+    font-family: 'Chivo', sans-serif;
+    
+}
+#demo{
+    color:black;
+    font-size: 20px;
+}
+.share-buttons{
+    display: flex;
+    justify-content: space-around;
+   
+    width:13%;
+   
+}
+.share-buttons1{
+    margin-top: 21%; 
+  font-size: 25px;  
+}
+@media(max-width:768px){
+.Full-box{
+    width:100%;
+    height: 93%;
+   position: absolute;
+   left:1;
+   right:0;
+}
+.share-buttons{
+    width:70px;
+    display: flex;
+    justify-content: space-around;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.share-buttons1{
+    margin-top: 65%;
+   
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.icon{
+    margin-left: 10px;
 }
-
-.App-link {
-  color: #61dafb;
+body{
+    background:linear-gradient(105deg,rgb(221, 65, 18) ,rgb(44, 1, 1));
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
