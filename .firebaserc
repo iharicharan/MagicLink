@@ -1,5 +1,6 @@
 {
   "projects": {
-    "dussehrawishes1": "dussehrawishes1"
+    "default": "diwali-wishes1",
+    "diwali-wishes1": "diwali-wishes1"
   }
 }

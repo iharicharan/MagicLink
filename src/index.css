@@ -5,15 +5,9 @@ body {
   -webkit-text-stroke: 0.1px black;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background:linear-gradient(345deg,rgb(221, 65, 18) ,rgb(44, 1, 1));
-  color:white;
+  background:linear-gradient(105deg,green ,rgb(18, 136, 18));  color:white;
   font-weight: 800;
  
  text-align: center;
 }
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 
